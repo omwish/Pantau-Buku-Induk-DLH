@@ -805,6 +805,136 @@
       "keterangan": "",
       "totalBerat": 15,
       "totalHarga": 41700
+    },
+    {
+      "cycle": "2026-10",
+      "tanggal": "2026-10-19",
+      "register": "001",
+      "nama": "Bu Sri",
+      "alamat": "Kraton Indah, Karangketug",
+      "plastikKerasBerat": 6.4,
+      "plastikKerasHarga": 19200.0,
+      "plastikFleksibelBerat": 1.5,
+      "plastikFleksibelHarga": 450.00000000000006,
+      "kertasBerat": 4,
+      "kertasHarga": 6800.0,
+      "logamBerat": 1.3,
+      "logamHarga": 9400.0,
+      "kacaBerat": 0,
+      "kacaHarga": 0.0,
+      "karetKulitBerat": 0,
+      "karetKulitHarga": 0.0,
+      "kainTekstilBerat": 0,
+      "kainTekstilHarga": 0.0,
+      "anorganikLainBerat": 0,
+      "anorganikLainHarga": 0.0,
+      "keterangan": "",
+      "totalBerat": 13.200000000000001,
+      "totalHarga": 35850.0
+    },
+    {
+      "cycle": "2026-10",
+      "tanggal": "2026-10-19",
+      "register": "011",
+      "nama": "Bu Lia",
+      "alamat": "Kraton Indah, Karangketug",
+      "plastikKerasBerat": 0,
+      "plastikKerasHarga": 0.0,
+      "plastikFleksibelBerat": 0,
+      "plastikFleksibelHarga": 0.0,
+      "kertasBerat": 0,
+      "kertasHarga": 0.0,
+      "logamBerat": 1.2,
+      "logamHarga": 4800.0,
+      "kacaBerat": 0,
+      "kacaHarga": 0.0,
+      "karetKulitBerat": 0,
+      "karetKulitHarga": 0.0,
+      "kainTekstilBerat": 0,
+      "kainTekstilHarga": 0.0,
+      "anorganikLainBerat": 0,
+      "anorganikLainHarga": 0.0,
+      "keterangan": "",
+      "totalBerat": 1.2,
+      "totalHarga": 4800.0
+    },
+    {
+      "cycle": "2026-10",
+      "tanggal": "2026-10-19",
+      "register": "083",
+      "nama": "Naila (bu Parno)",
+      "alamat": "Kraton Indah, Karangketug",
+      "plastikKerasBerat": 0,
+      "plastikKerasHarga": 0.0,
+      "plastikFleksibelBerat": 0,
+      "plastikFleksibelHarga": 0.0,
+      "kertasBerat": 8,
+      "kertasHarga": 13600.0,
+      "logamBerat": 0,
+      "logamHarga": 0.0,
+      "kacaBerat": 0,
+      "kacaHarga": 0.0,
+      "karetKulitBerat": 0,
+      "karetKulitHarga": 0.0,
+      "kainTekstilBerat": 0,
+      "kainTekstilHarga": 0.0,
+      "anorganikLainBerat": 0,
+      "anorganikLainHarga": 0.0,
+      "keterangan": "",
+      "totalBerat": 8,
+      "totalHarga": 13600.0
+    },
+    {
+      "cycle": "2026-10",
+      "tanggal": "2026-10-19",
+      "register": "025",
+      "nama": "Bu Parno",
+      "alamat": "Kraton Indah, Karangketug",
+      "plastikKerasBerat": 2.8,
+      "plastikKerasHarga": 790.0,
+      "plastikFleksibelBerat": 0,
+      "plastikFleksibelHarga": 0.0,
+      "kertasBerat": 0,
+      "kertasHarga": 0.0,
+      "logamBerat": 0,
+      "logamHarga": 0.0,
+      "kacaBerat": 0,
+      "kacaHarga": 0.0,
+      "karetKulitBerat": 0,
+      "karetKulitHarga": 0.0,
+      "kainTekstilBerat": 0,
+      "kainTekstilHarga": 0.0,
+      "anorganikLainBerat": 0,
+      "anorganikLainHarga": 0.0,
+      "keterangan": "",
+      "totalBerat": 2.8,
+      "totalHarga": 790.0
+    },
+    {
+      "cycle": "2026-10",
+      "tanggal": "2026-10-23",
+      "register": "046",
+      "nama": "Pak Joko",
+      "alamat": "Kraton Indah, Karangketug",
+      "plastikKerasBerat": 7,
+      "plastikKerasHarga": 22000.0,
+      "plastikFleksibelBerat": 0,
+      "plastikFleksibelHarga": 0.0,
+      "kertasBerat": 8,
+      "kertasHarga": 10300.0,
+      "logamBerat": 0,
+      "logamHarga": 0.0,
+      "kacaBerat": 0,
+      "kacaHarga": 0.0,
+      "karetKulitBerat": 0,
+      "karetKulitHarga": 0.0,
+      "kainTekstilBerat": 0,
+      "kainTekstilHarga": 0.0,
+      "anorganikLainBerat": 3,
+      "anorganikLainHarga": 900.0000000000001,
+      "keterangan": "",
+      "totalBerat": 18,
+      "totalHarga": 33200.0
     }
   ],
   "arsip": [
@@ -905,6 +1035,56 @@
           "nama": "Anorganik Lain",
           "berat": 11,
           "harga": 39200
+        }
+      }
+    },
+    {
+      "bulan": "2026-10",
+      "status": "closed",
+      "tanggalTutup": "2026-10-30T00:13:24.169Z",
+      "totalTransaksi": 5,
+      "totalBerat": 43.2,
+      "totalHarga": 88240.0,
+      "rincian": {
+        "plastikKeras": {
+          "nama": "Plastik Keras",
+          "berat": 16.2,
+          "harga": 41990.0
+        },
+        "plastikFleksibel": {
+          "nama": "Plastik Fleksibel",
+          "berat": 1.5,
+          "harga": 450.00000000000006
+        },
+        "kertas": {
+          "nama": "Kertas",
+          "berat": 20,
+          "harga": 30700.000000000004
+        },
+        "logam": {
+          "nama": "Logam",
+          "berat": 2.5,
+          "harga": 14200.0
+        },
+        "kaca": {
+          "nama": "Kaca",
+          "berat": 0,
+          "harga": 0.0
+        },
+        "karetKulit": {
+          "nama": "Karet / Kulit",
+          "berat": 0,
+          "harga": 0.0
+        },
+        "kainTekstil": {
+          "nama": "Kain / Tekstil",
+          "berat": 0,
+          "harga": 0.0
+        },
+        "anorganikLain": {
+          "nama": "Anorganik Lain",
+          "berat": 3,
+          "harga": 900.0000000000001
         }
       }
     }
